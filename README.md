@@ -1,2 +1,2 @@
 # Questify-Habit-Conquest
-manifesting pasado
+A gamified habit tracker.
